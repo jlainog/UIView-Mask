@@ -7,7 +7,7 @@ you'll find a category holding this line
 <pre>
 @property (nonatomic, strong) IBInspectable UIImage *imgMask;
 </pre>
-this do all the magic, so in IB you can find a field to set the image you want to use as a Mask   
+this does all the magic, so in IB you can find a field to set the image you want to use as a Mask   
 Img Mask
 
 <img border="0" src="./IB_Inspector.png" alt="IB" width="320" height="480">
